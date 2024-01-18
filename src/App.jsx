@@ -1,8 +1,8 @@
 function App() {
   return[
-    <div>
+    <p>
       Hello world!
-    </div>
+    </p>
   ]
 }
 
